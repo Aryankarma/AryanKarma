@@ -6,8 +6,7 @@
 > You can reach me at aryankarma29@gmail.com
 
 ## :v: Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/pragyan-patidar](https://in.linkedin.com/in/aryan-karma-a17a32261)) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@pragyan_patidar](https://twitter.com/KarmaAryan)) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://in.linkedin.com/in/aryan-karma-a17a32261) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/KarmaAryan) 
 <br/>
 
 
