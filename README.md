@@ -25,9 +25,9 @@
 
 
 ## :coffee: GitHub Stats:
-![Aryankarma's GitHub stats](https://github-readme-stats.vercel.app/api/?username=aryankarma&show_icons=true&text_bold=true&theme=transparent&title_color=2160C4&text_color=f5f5f5&icon_color=2A79F7&border_color=999&border_radius=15&card_width=435&)<br/>
+![Aryankarma's GitHub stats](https://github-readme-stats.vercel.app/api/?username=aryankarma&show_icons=true&text_bold=true&theme=transparent&title_color=2160C4&text_color=darkgrey&icon_color=2A79F7&border_color=999&border_radius=15&card_width=435&)<br/>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aryankarma&show_icons=true&text_bold=true&theme=transparent&title_color=f5f5f5&text_color=f5f5f5&icon_color=2A79F7&border_radius=15&card_width=435&)<br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryankarma&show_icons=true&text_bold=true&theme=transparent&hide_border=false&title_color=2160C4&text_color=f5f5f5&icon_color=2A79F7&border_color=999&border_radius=15&card_width=435&)<hr/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryankarma&show_icons=true&text_bold=true&theme=transparent&hide_border=false&title_color=2160C4&text_color=darkgrey&icon_color=2A79F7&border_color=999&border_radius=15&card_width=435&)<hr/>
 
 Feel free to explore my repositories and connect with me on social media!
 
