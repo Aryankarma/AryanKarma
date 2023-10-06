@@ -9,8 +9,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://in.linkedin.com/in/aryan-karma-a17a32261) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/KarmaAryan) 
 <br/>
 
-
-
 ## :zap: Tech Stack:
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 
@@ -22,13 +20,11 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-
+<hr/>
 
 ## :coffee: GitHub Stats:
 ![Aryankarma's GitHub stats](https://github-readme-stats.vercel.app/api/?username=aryankarma&show_icons=true&text_bold=true&theme=transparent&title_color=2160C4&text_color=darkgrey&icon_color=2A79F7&border_color=999&border_radius=15&card_width=435&cache_seconds=86400)<br/>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aryankarma&show_icons=true&text_bold=true&theme=transparent&title_color=f5f5f5&text_color=f5f5f5&icon_color=2A79F7&border_radius=15&card_width=435&cache_seconds=86400)<br/>
-<!--[![GitHub Streak](https://streak-stats.demolab.com/?user=aryankarma)](https://git.io/streak-stats)<br/>-->
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryankarma&show_icons=true&text_bold=true&theme=transparent&hide_border=false&title_color=2160C4&text_color=darkgrey&icon_color=2A79F7&border_color=999&border_radius=15&card_width=435&cache_seconds=86400)<hr/>
 Feel free to explore my repositories and connect with me on social media!
 
