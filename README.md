@@ -1,4 +1,4 @@
-# :heart: **Welcome to My GitHub Profile!**
+# :heart: **Hi, I'm Aryan Karma**
 
 ## :secret: About Me :
 > I’m currently working on Web Development and DSA<br>
