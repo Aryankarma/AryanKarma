@@ -6,15 +6,8 @@
 > You can reach me at aryankarma29@gmail.com
 
 ## :v: Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://in.linkedin.com/in/aryan-karma-a17a32261) [![Twitter](https://img.shields.io/badge/x-%231DA1F2.svg?logo=x&logoColor=black)](https://twitter.com/KarmaAryan) 
-
-<br/>
-
 ![x](https://img.shields.io/badge/x-%23151515.svg?style=for-the-badge&logo=x&logoColor=%gray)
 ![linkedin](https://img.shields.io/badge/linkedin-%23151515.svg?style=for-the-badge&logo=linkedin&logoColor=blue)
-
-
-<br/>
 
 ## :zap: Tech Stack:
 ![C](https://img.shields.io/badge/C-%2320232a.svg?style=for-the-badge&logo=c&logoColor=A8B9CC)
