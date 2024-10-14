@@ -6,8 +6,8 @@
 > You can reach me at aryankarma29@gmail.com
 
 ## :v: Socials:
-[![linkedin](https://img.shields.io/badge/linkedin-%23151515.svg?style=for-the-badge&logo=linkedin&logoColor=blue)](https://twitter.com/KarmaAryan)
-[![x](https://img.shields.io/badge/x-%23151515.svg?style=for-the-badge&logo=x&logoColor=%gray)](https://linkedin.com/in/aryankarma)
+[![linkedin](https://img.shields.io/badge/linkedin-%23181818.svg?style=for-the-badge&logo=linkedin&logoColor=blue)](https://linkedin.com/in/aryankarma)
+[![x](https://img.shields.io/badge/x-%23181818.svg?style=for-the-badge&logo=x&logoColor=%gray)](https://twitter.com/KarmaAryan)
 
 ## :zap: Tech Stack:
 ![C](https://img.shields.io/badge/C-%2320232a.svg?style=for-the-badge&logo=c&logoColor=A8B9CC)
