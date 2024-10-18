@@ -4,6 +4,12 @@
 > I’m currently working on Web Development and DSA<br>
 > I’m looking to collaborate on Development projects<br>
 > You can reach me at aryankarma29@gmail.com
+> <br/>
+<div style="padding-top: 20px;">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=aryankarma&label=Profile%20Views&color=1&icon=5&pretty=true" alt="Profile Views">
+  </a>
+</div>
 
 ## :v: Socials:
 [![linkedin](https://img.shields.io/badge/linkedin-%23181818.svg?style=for-the-badge&logo=linkedin&logoColor=blue)](https://linkedin.com/in/aryankarma)
