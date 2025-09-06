@@ -42,8 +42,3 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryankarma&show_icons=true&text_bold=true&theme=transparent&hide_border=false&title_color=2160C4&text_color=darkgrey&icon_color=2A79F7&border_color=999&border_radius=15&card_width=435&cache_seconds=86400)<hr/>
 Feel free to explore my repositories and connect with me on social media!
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aryankarma/aryankarma/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aryankarma/aryankarma/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/aryankarma/aryankarma/output/github-contribution-grid-snake.svg">
-</picture>
