@@ -5,11 +5,9 @@
 > I’m looking to collaborate on Development projects<br>
 > You can reach me at aryankarma29@gmail.com
 > <br/>
-<div style="padding-top: 20px;">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=aryankarma&label=Profile%20Views&color=1&icon=5&pretty=true" alt="Profile Views">
-  </a>
-</div>
+
+[![](https://komarev.com/ghpvc/?username=aryankarma&base=0&color=202020)](https://github.com/aryankarma)
+
 
 ## :v: Socials:
 [![linkedin](https://img.shields.io/badge/linkedin-%23181818.svg?style=for-the-badge&logo=linkedin&logoColor=blue)](https://linkedin.com/in/aryankarma)
@@ -44,17 +42,8 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryankarma&show_icons=true&text_bold=true&theme=transparent&hide_border=false&title_color=2160C4&text_color=darkgrey&icon_color=2A79F7&border_color=999&border_radius=15&card_width=435&cache_seconds=86400)<hr/>
 Feel free to explore my repositories and connect with me on social media!
 
-<!--
-**Aryankarma/AryanKarma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aryankarma/aryankarma/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aryankarma/aryankarma/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/aryankarma/aryankarma/output/github-contribution-grid-snake.svg">
+</picture>
