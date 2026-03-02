@@ -1,4 +1,4 @@
-# :heart: **Hi, I'm Aryan Karma** *& I am a technocrat at heart*
+# **Hi, I'm Aryan Karma** *& I am a technocrat at heart*
 
 ## :secret: About Me :
 > I’m currently working on Web Development and DSA<br>
